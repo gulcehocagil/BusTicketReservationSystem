@@ -1,0 +1,11 @@
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\bin\Debug\Bus_Ticket_Reservation.exe.config
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\bin\Debug\Bus_Ticket_Reservation.exe
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\bin\Debug\Bus_Ticket_Reservation.pdb
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.csprojAssemblyReference.cache
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.Form1.resources
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.Properties.Resources.resources
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.csproj.GenerateResource.cache
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.csproj.CoreCompileInputs.cache
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.exe
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.pdb
+C:\Nilsu Dokumanlar\Yazılım\Gorsel_Programlama_C#\Bus_Ticket_Reservation\Bus_Ticket_Reservation\obj\Debug\Bus_Ticket_Reservation.Yolcu_Giris.resources
